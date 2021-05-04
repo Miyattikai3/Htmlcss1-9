@@ -1,0 +1,10 @@
+.fab{
+  font-size: 32px;
+}
+
+/*解答参照*/
+.position{
+  position: absolute;
+  top: 100px;
+  right:40px;
+}
